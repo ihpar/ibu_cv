@@ -3,7 +3,5 @@
 .LSOverride
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-./linear_reg/*
-./log_reg/*
 linear_reg/
 log_reg/
