@@ -3,5 +3,6 @@
 .LSOverride
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-linear_reg/
+linear_reg/app.ipynb
+linear_reg/slide.ipynb
 log_reg/
