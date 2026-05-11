@@ -11,3 +11,11 @@ ann/boundaries.ipynb
 .vscode
 qs/*
 .gitignore
+.cursor-server
+.vscode-server
+.windsurf-server
+.idea/this_studio.iml
+.lightning_studio/.studiorc
+.lightning_studio/on_start.sh
+.lightning_studio/on_stop.sh
+.gitignore
